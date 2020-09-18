@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install - ng server
 ```
 
 ### Compiles and hot-reloads for development
